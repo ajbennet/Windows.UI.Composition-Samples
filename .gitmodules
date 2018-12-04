@@ -1,0 +1,3 @@
+[submodule "BuildCast"]
+	path = BuildCast
+	url = https://github.com/Microsoft/BuildCast
