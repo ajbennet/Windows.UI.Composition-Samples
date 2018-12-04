@@ -4,3 +4,9 @@
 [submodule "SampleGallery"]
 	path = SampleGallery
 	url = https://github.com/Microsoft/WindowsCompositionSamples
+[submodule "Win32"]
+	path = Win32
+	url = https://github.com/ajbennet/WindowsCompositionSamples-Win32
+[submodule "Common"]
+	path = Common
+	url = https://github.com/ajbennet/Common-WUC-Libraries
