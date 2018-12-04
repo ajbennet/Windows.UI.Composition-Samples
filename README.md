@@ -1,4 +1,24 @@
 # Windows.UI.Composition Samples
+Welcome to the home of Windows.UI.Composition Samples. Please subscribe to this repository for announcements in this space. 
+
+For individual repositories please click the links below. 
+
+How-To Tutorials:
+  [Win32 Interop with Windows.UI.Composition Samples](https://github.com/ajbennet/WindowsCompositionSamples-Win32)
+  [Common Libraries for Samples](https://github.com/ajbennet/Common-WUC-Libraries)
+  
+Demo/Store Applications:
+  [Windows.UI.Composition Sample Gallery](https://github.com/Microsoft/WindowsCompositionSamples)
+  [BuildCast Video Player UWP Sample](https://github.com/Microsoft/BuildCast) 
+
+For your convenience all the individual repositories are linked as submodules to this repository. Below are 2 ways to get all the repositories:
+
+* Use the github extension in Visual studio and it will pull down all the repositories listed in this site. 
+* git clone --recurse-submodules git://github.com/ajbennet/WindowsCompositionSamples-Win32
+
+# Announcements
+
+* Windows.UI.Composition is easier than ever before to interop with Win32. Checkout the samples [here](https://github.com/ajbennet/WindowsCompositionSamples-Win32). 
 
 ## [Windows.UI.Composition Sample Gallery](https://github.com/Microsoft/WindowsCompositionSamples)
 This is the place for the latest code samples, demos, and developer feedback around building beautiful and engaging Universal Windows Platform apps.  This repo focuses on the platform building blocks that make up the [Fluent Design System](https://fluent.microsoft.com/), with emphasis on creating UI using APIs in the [Windows.UI.Composition](https://msdn.microsoft.com/en-us/library/windows/apps/windows.ui.composition.aspx) namespace. The code samples and demos in this repo are targeted at developers who are interested in experimenting, building, and providing feedback on the latest flighting Windows UI APIs.
