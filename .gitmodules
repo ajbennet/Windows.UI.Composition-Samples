@@ -1,3 +1,6 @@
 [submodule "BuildCast"]
 	path = BuildCast
 	url = https://github.com/Microsoft/BuildCast
+[submodule "SampleGallery"]
+	path = SampleGallery
+	url = https://github.com/Microsoft/WindowsCompositionSamples
