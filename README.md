@@ -14,7 +14,7 @@ Demo/Store Applications:
 For your convenience all the individual repositories are linked as submodules to this repository. Below are 2 ways to get all the repositories:
 
 * Use the github extension in Visual studio and it will pull down all the repositories listed in this site. 
-* git clone --recurse-submodules git://github.com/ajbennet/WindowsCompositionSamples-Win32
+* git clone **--recurse-submodules** git://github.com/ajbennet/Windows.UI.Composition-Samples
 
 # Announcements
 
