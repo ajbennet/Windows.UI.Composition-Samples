@@ -37,15 +37,15 @@ If you are a developer getting familiar with the Windows UI platform, want to bu
 
 We also want to see what inspiring UX you're building, so feel free to reach out on Twitter [@WindowsUI](https://twitter.com/windowsui), and [sign up](https://t.co/9vNiiBp2yJ) for our newsletter to always get the latest.
 
-## [BuildCast Video Player UWP Sample](https://github.com/Microsoft/BuildCast) 
+## [BuildCast video player UWP sample](https://github.com/Microsoft/BuildCast) 
 BuildCast is an end-to-end sample built to showcase the [Microsoft Fluent Design System](https://fluent.microsoft.com/) as well as other capabilities of the Universal Windows Platform. It permits browsing, downloading and playback of select video podcasts including a sampling of the most popular ones from Channel 9 as well as some popular Windows tech enthusiast feeds. It has other features such as ink notes, bookmarks and remote playback. This sample was initially shown and discussed at the 2017 Build conference during the [Build Amazing Apps with Fluent Design](https://channel9.msdn.com/Events/Build/2017/B8034) talk.  
 
 <img src="https://github.com/Microsoft/BuildCast/blob/master/images/buildcast.png" width=700>
 
-## [Win32 Interop with Windows.UI.Composition Samples](https://github.com/ajbennet/WindowsCompositionSamples-Win32)
+## [Win32 interop with Windows.UI.Composition samples](https://github.com/ajbennet/WindowsCompositionSamples-Win32)
 This repository has all the samples for how-to tutorials on Win32 interop with Windows.UI.Composition. 
 
-## [Common Libraries for Samples](https://github.com/ajbennet/Common-WUC-Libraries)
+## [Common libraries for samples](https://github.com/ajbennet/Common-WUC-Libraries)
 Common libraries that are shared by these samples. 
 
 
